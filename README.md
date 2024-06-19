@@ -12,9 +12,14 @@
       - HTML
       - C
    ### Technologies I know: 
-      - Bootstrap
+      - Bootstrap, Tailwind
       - Firebase/Firestore
-      - SQL
+      - SQL, mySQL
+      - EJS
+      - ExpressJS
+      - NodeJS
    ### Projects I've worked on: 
-      - Autoblocks (Java Desktop App): D&D combat automator and manager
-      - McWorking (JS Web App): McDonalds icecream machine status tracker
+      - MediKate (JS Web App): BCIT 2nd Term Project. [LINK](https://github.com/Danton1/2800-202410-BBY34). Medical assistant chatbot using a custom ChatGPT.
+      - Organica (MEAN Stack Web App): QDS Hackathon 2024 Finalist. [LINK](https://github.com/kamalkdolikay/Organica). Bulk buying fresh foods from the farm for BCIT students to allow cheaper and healthier foods.
+      - McWorking (JS Web App): BCIT 1st Term Project. [LINK](https://github.com/simonlotzkar/1800_20233_BBYTeam17). McDonalds icecream machine status tracker
+      - Autoblocks (Java Desktop App): UBC 2nd Year Project. [LINK](https://github.com/simonlotzkar/autoblocks). D&D combat automator and manager
