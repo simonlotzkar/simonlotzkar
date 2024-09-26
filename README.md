@@ -1,19 +1,6 @@
 # About Me:
 ## 📫 How to reach me: simonlotzkar@gmail.com.
 ## 📚 Student at BCIT in the CST (Computer Systems Technology) program.
-## 📲 Passion for app development, with a focus on web and mobile.
-   ### Languages I know: 
-      - Java 
-      - JavaScript
-      - CSS
-      - HTML
-      - C
-      - SQL, mySQL
-   ### Technologies I know: 
-      - Bootstrap, Tailwind
-      - Firebase, Firestore, MongoDB
-      - EJS, ExpressJS, NodeJS
-      - JUnit
    ### Projects I've worked on: 
    [MediKate](https://github.com/Danton1/2800-202410-BBY34) (JS Web App): BCIT 2nd Term Project.
    <br/>
