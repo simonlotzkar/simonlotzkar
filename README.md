@@ -1,4 +1,3 @@
-# About Me:
 ## 📫 How to reach me: simonlotzkar@gmail.com.
 ## 📚 Student at BCIT in the CST (Computer Systems Technology) program.
    ### Projects I've worked on: 
@@ -14,7 +13,7 @@
    <br/>
    [McWorking](https://github.com/simonlotzkar/1800_20233_BBYTeam17) (JS Web App): BCIT 1st Term Project. 
       <br/>
-      McDonalds icecream machine status tracker. 
+      McDonalds icecream machine status tracker. https://comp1800-teambby17.web.app/ 
       <br/>
    <br/>
    [Autoblocks](https://github.com/simonlotzkar/autoblocks) (Java Desktop App): Personal Project. 
