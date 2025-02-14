@@ -1,4 +1,4 @@
-## 📫 How to reach me: simonlotzkar@gmail.com.
+## 📫 How to reach me: simon@lotzkar.com.
 ## 👨‍💻 Check out my portfolio: [lotzkar.com](https://lotzkar.com).
    ### Projects I've worked on: 
    [MediKate](https://github.com/Danton1/2800-202410-BBY34) (JS Web App): BCIT 2nd Term Project.
