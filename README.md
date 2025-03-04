@@ -3,7 +3,7 @@
    ### 🚀 Projects
    [MediKate](https://github.com/Danton1/2800-202410-BBY34) (JS Web App): BCIT 2nd Term Project.
    <br/>
-      Medical assistant chatbot using a custom ChatGPT. https://medikate.onrender.com/
+      Medical assistant chatbot using a custom ChatGPT. https://medikate.onrender.com/ (warning: needs to spin up, takes a minute)
       <br/>
    <br/>
    [Organica](https://devpost.com/software/qds) (MEAN Stack Web App): QDS Hackathon 2024 Finalist. 
