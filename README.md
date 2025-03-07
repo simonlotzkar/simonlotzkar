@@ -1,5 +1,5 @@
+# 👨‍💻 Portfolio: [lotzkar.com](https://lotzkar.com)
 ## 📫 Email: simon@lotzkar.com
-## 👨‍💻 Portfolio: [lotzkar.com](https://lotzkar.com)
    ### 🚀 Projects
    [MediKate](https://github.com/Danton1/2800-202410-BBY34) (JS Web App): BCIT 2nd Term Project.
    <br/>
