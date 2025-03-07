@@ -18,7 +18,7 @@
    <br/>
    [Autoblocks](https://github.com/simonlotzkar/autoblocks) (Java Desktop App): Personal Project. 
       <br/>
-      D&D combat automator and manager. [Read The Dev-Blog](https://simonlotzkar.com/articles/autoblocks)
+      D&D combat automator and manager. [Read the devblog here.](https://simonlotzkar.com/articles/autoblocks)
       <br/>
 
    ### 🛠 Skills
